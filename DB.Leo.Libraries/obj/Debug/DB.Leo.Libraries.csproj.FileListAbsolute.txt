@@ -1,0 +1,7 @@
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\bin\Debug\DB.Leo.Libraries.dll
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\bin\Debug\DB.Leo.Libraries.pdb
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\obj\Debug\DB.Leo.Libraries.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\obj\Debug\DB.Leo.Libraries.dll
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\obj\Debug\DB.Leo.Libraries.pdb
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\bin\Debug\SimpleInjector.dll
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\DB.Leo\DB.Leo\DB.Leo.Libraries\bin\Debug\SimpleInjector.xml
